@@ -5,7 +5,7 @@ OrdererOrgs:
       - Hostname: orderer
 
 PeerOrgs:
-  - Name: Sales1 
+  - Name: Sales1
     Domain: sales1.acornpub.com
     Template:
       Count: 2
